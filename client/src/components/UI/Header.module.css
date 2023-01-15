@@ -1,0 +1,14 @@
+.logo {
+    margin-top: 25px;
+}
+
+.websiteName {
+    font-family: 'Girassol';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 57px;
+    line-height: 68px;
+    /* identical to box height */
+
+    color: #913939;
+}
